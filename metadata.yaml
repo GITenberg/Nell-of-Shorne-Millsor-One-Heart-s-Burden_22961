@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3498
     wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22961#Nell-of-Shorne-Millsor-One-Heart-s-Burden
 gutenberg_issued: '2007-10-11'
 gutenberg_type: Text
 identifiers:
